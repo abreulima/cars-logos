@@ -1,0 +1,10 @@
+import os
+
+files = os.listdir()
+
+for index, file in enumerate(files):
+	filename = file.split("logo")[0][:-1]
+	fileext = file.split(".")[-1]
+	filefullname = filename + "." + fileext
+	print (filefullname)
+	os.rename(file, filefullname)

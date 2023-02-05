@@ -1,0 +1,92 @@
+abarth
+acura
+aixam
+alfa romeo
+alpina
+am general
+asia motors
+aston martin
+audi
+bentley
+bmw
+brilliance
+bugatti
+buick
+byd
+cadillac
+changan
+chery
+chevrolet
+chrysler
+citroen
+dacia
+daewoo
+daihatsu
+daimler
+datsun
+dodge
+dongfeng
+eagle
+ferrari
+fiat
+fiat alt
+fisker
+ford
+foton
+geely
+genesis
+geo
+gmc
+gret wall
+honda
+hummer
+hyundai
+infiniti
+isuzu
+jac
+jaguar
+jeep
+kia
+lada
+lamborghini
+land rover
+lexus
+lincoln
+lotus
+maserati
+maybach
+mazda
+mclaren
+mercedes benz
+mercury
+mini
+mitsubishi
+nissan
+oldsmobile
+opel
+panoz
+peugeot
+plymouth
+pontiac
+porsche
+ram
+ravon
+renault
+rolls royce
+saab
+saturn
+scion
+seat
+skoda
+smart
+spyker
+ssangyong
+subaru
+suzuki
+tata
+tesla
+toyota
+volkswagen
+volvo
+vortex
+N. of brands: 91
